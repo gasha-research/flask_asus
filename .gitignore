@@ -8,6 +8,6 @@ pyvenv.cfg
 sample.py
 share/
 shinjuku/
-templates/
+templates2/
 upload_app/
 view.py
