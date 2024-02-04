@@ -1,0 +1,13 @@
+bin/
+flask_test/
+include/
+iris/
+lib/
+lib64/
+pyvenv.cfg
+sample.py
+share/
+shinjuku/
+templates/
+upload_app/
+view.py
